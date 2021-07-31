@@ -1,0 +1,212 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/jni/CMakeLists.txt",
+    "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/jni/voip/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "tgnet-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "tgnet"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "tgnet",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libtgnet.a"
+    },
+    "webp-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "webp"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "webp",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libwebp.a"
+    },
+    "rnnoise-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "rnnoise"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "rnnoise",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/librnnoise.a"
+    },
+    "lz4-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "lz4"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "lz4",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/liblz4.a"
+    },
+    "tgcalls-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "tgcalls"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "tgcalls",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libtgcalls.a"
+    },
+    "tmessages.40-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "tmessages.40"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "tmessages.40",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/build/intermediates/cmake/afatDebug/obj/arm64-v8a/libtmessages.40.so",
+      "runtimeFiles": []
+    },
+    "rlottie-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "rlottie"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "rlottie",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/librlottie.a"
+    },
+    "cpufeatures-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "cpufeatures"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "cpufeatures",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libcpufeatures.a"
+    },
+    "tgvoip-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "tgvoip"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "tgvoip",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libtgvoip.a"
+    },
+    "voipandroid-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "voipandroid"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "voipandroid",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libvoipandroid.a"
+    },
+    "sqlite-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "sqlite"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "sqlite",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libsqlite.a"
+    },
+    "flac-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "flac"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "flac",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libflac.a"
+    },
+    "openh264-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "openh264"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "openh264",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libopenh264.a"
+    },
+    "mozjpeg-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "mozjpeg"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "mozjpeg",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libmozjpeg.a"
+    },
+    "tgcalls_tp-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a",
+        "tgcalls_tp"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "tgcalls_tp",
+      "output": "/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a/libtgcalls_tp.a"
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}

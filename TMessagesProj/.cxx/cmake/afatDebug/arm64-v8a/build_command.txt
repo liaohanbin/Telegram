@@ -1,0 +1,25 @@
+                    Executable : /Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/jni
+-DCMAKE_FIND_ROOT_PATH=/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/prefab/arm64-v8a/prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/Users/liaohanbin/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=arm64-v8a
+-DANDROID_NDK=/Users/liaohanbin/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DCMAKE_ANDROID_NDK=/Users/liaohanbin/Library/Android/sdk/ndk/21.4.7075529
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/build/intermediates/cmake/afatDebug/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/build/intermediates/cmake/afatDebug/obj/arm64-v8a
+-DCMAKE_MAKE_PROGRAM=/Users/liaohanbin/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=16
+-DANDROID_STL=c++_static
+-DANDROID_PLATFORM=android-16
+-B/Users/liaohanbin/Desktop/Tele/Telegram/TMessagesProj/.cxx/cmake/afatDebug/arm64-v8a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 1
